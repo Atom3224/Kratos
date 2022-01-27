@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto&family=Supermercado+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Supermercado+One&display=swap");
+.container {
+  background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612862461_15-p-krasnie-prikolnie-foni-19.png);
+}
+.imgone {
+  margin: auto;
+  display: block;
+  border-radius: 45px;
+}
+
+.text {
+  margin: auto;
+  text-align: center;
+  font-family: "Supermercado One", cursive;
+  font-size: 60px;
+  color: rgb(255, 51, 0);
+}
