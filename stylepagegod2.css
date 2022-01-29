@@ -1,0 +1,19 @@
+body {
+  background: url(https://images.alphacoders.com/526/thumb-1920-526115.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+@font-face {
+  font-family: GodOfWar;
+  src: url(fonts/GodOfWar.ttf);
+}
+.ppagetwo {
+  width: auto;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-size: 30px;
+  font-family: "GodOfWar";
+  font-size: 25px;
+  color: rgb(149, 149, 206);
+}
