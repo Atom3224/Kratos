@@ -18,3 +18,13 @@ body {
   color: rgb(46, 106, 129);
   margin-bottom: 2%;
 }
+.ppageone{
+ width: auto;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-size: 30px;
+  font-family: GodOfWar;
+  color: rgb(17, 145, 196);
+  font-size: 25px;
+}
