@@ -5,7 +5,7 @@ body {
 }
 @font-face {
   font-family: GodOfWar;
-  src: url(fonts/GodOfWar.ttf);
+  src: url(GodOfWar.ttf);
 }
 .ppagetwo {
   width: auto;
