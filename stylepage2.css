@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto&family=Supermercado+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto&family=Supermercado+One&display=swap");
+@font-face {
+  font-family: GodOfWar;
+  src: url(GodOfWar.ttf);
+}
 body {
   background: url(https://i.pinimg.com/originals/75/04/6b/75046be8205e89438db41eadbe4df6f9.jpg);
   background-repeat: no-repeat;
