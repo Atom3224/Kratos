@@ -1,0 +1,15 @@
+body {
+  background: url(https://img2.badfon.ru/original/1920x1080/e/22/god-of-war-ascension-god-of-6475.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@font-face {
+  font-family: GodOfWar;
+  src: url(GodOfWar.ttf);
+}
+.hone {
+  font-family: "GodOfWar";
+  text-align: center;
+  color: rgb(165, 94, 27);
+  font-size: 49px;
+}
